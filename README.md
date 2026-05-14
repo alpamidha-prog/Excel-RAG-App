@@ -49,6 +49,13 @@
 
 ---
 
+## 📊 Sample Data
+The project includes a sample data file for testing:
+- **Location**: `data/car data - Sheet1.xlsx`
+- **Content**: A dataset of car specifications and details, perfect for testing the RAG query system.
+
+---
+
 ## ✨ Features
 - **Lightning Fast**: Powered by Groq Llama 3.3.
 - **Excel Integration**: Processes `.xlsx` and `.xls` files into vector embeddings.
