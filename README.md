@@ -71,6 +71,14 @@ Simply open `index.html` in any modern web browser or use a Live Server.
 
 ---
 
+## 🏗️ System Architecture
+
+![System Architecture](./architecture.png)
+
+*The workflow above illustrates the RAG pipeline: from document ingestion and chunking to vector storage and conversational retrieval.*
+
+---
+
 ## 🏗️ Project Structure
 
 ```text
